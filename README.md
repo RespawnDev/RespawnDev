@@ -9,7 +9,11 @@
 <p align="center">
   Sou curiosa, apaixonada por tecnologia e por criar soluções que unem um bom código a resultados reais. Gosto de estudar sobre gatilhos mentais e psicologia aplicada ao marketing para criar páginas que não são apenas bonitas, mas que realmente convertem.
 </p>
----
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/RespawnDev/RespawnDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/RespawnDev/RespawnDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
